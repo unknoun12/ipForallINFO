@@ -1,0 +1,2 @@
+#ipForallINFO
+register https://ipgeolocation.io/ and write curl https://api.ipgeolocation.io/ipgeo?apiKey=API_KEY&ip="ip"
